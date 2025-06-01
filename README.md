@@ -10,7 +10,16 @@ Pasos a seguir:
 💜Paso3.Habilitar el entorno virtual
 
 
+### DESCARGAR .SQL FINAL
+⚠️ Nota: El archivo .sql actualizado no se incluyó en la entrega, pero puede descargarlo aquí:
+
+[.SQL FINAL](https://github.com/SofiSuriano/Topicos-Practica12/blob/main/pasteleria.sql).
+
+
+### Para ver todo el proyecto
+
 Podrás encontrarlo aquí [Cruds de catalogos](https://github.com/SofiSuriano/Topicos-Practica12).
+
 
 ### Tecnologías utilizadas
 
